@@ -1,0 +1,7 @@
+(end of the file, cooldown routines)
+M104 S220 T0 (keep temp at 220 C)
+M109 S120 T0 (keep platform temp at 120 C)
+M106 (fan on)
+G90 (Absolute Positioning)
+G1 X0 Y-40 Z50 (go to 0,-40,50)
+M18 (turn off steppers)

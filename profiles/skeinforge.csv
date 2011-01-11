@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	234+22
+Open File for Skeinforge	/Users/abuser/things/reuleaux_assy.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
